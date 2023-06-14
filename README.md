@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jonnala chandra pujitha</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data analysis**
 
 - 📫 How to reach me **chandra.pujitha02@gmail.com**
 
